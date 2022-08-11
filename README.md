@@ -1,6 +1,6 @@
 
-## spline drawer
-Draw spline in image with given points P. `P(t, c, k)` t is c and k is degree.
+## Spline drawer
+In mathematics, a spline is a special function defined piecewise by polynomials ([read more](https://en.wikipedia.org/wiki/Spline_(mathematics))). <br />We need three parameter for drawing spline. t, c and k. like this image.
 
 <p align="center">
 <img src="./static/spline.svg" width="660" height="412" />
@@ -24,5 +24,5 @@ localhost:5000/spline/
 As you see in `test.py`, we have more x and y cordinates of points. After process data, you can see splines :)
 
 <p align="center">
-<img src="./upload/out.jpg" width="660" height="412" />
+<img src="./static/out.jpg" width="500" height="380" />
 </p>
