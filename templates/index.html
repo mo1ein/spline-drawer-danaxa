@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <title>Spline drawer</title>
+  </head>
+  <body>
+    <center>
+        <h1>Welcome to Spline drawer</h1>
+        <img src="../static/spline.svg" alt="spline photo" width="560" height="312">
+
+        <form style="text-align: center" action="" method="post" enctype="multipart/form-data">
+            <p>
+                <label>Select your file:</label>
+                <input type="file" name="image" />
+            </p>
+            <p>
+                <p>Enter xs with comma(,) seperated:</p>
+                <input type="text" name="xs" />
+            </p>
+            <p>
+                <p>Enter ys with comma(,) seperated:</p>
+                <input type="text" name="ys" />
+            </p>
+            <p>
+                <p>Enter k:</p>
+                <input type="text" name="k" />
+            </p>
+            <p>
+                {% if message %}
+                <p style="color: red">{{ message }}</p>
+                {% endif %}
+
+                <input class="button button1" type="submit" value="Draw" />
+            </p>
+        </form>
+    </center>
+  </body>
+</html>

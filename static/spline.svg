@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd" height="532" width="780" id="svg2" preserveAspectRatio="xMidYMid" viewBox="0 0 22000 15000" version="1.0">
+  <metadata id="metadata2000">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+        <dc:date>Jul  2 22:30:00 UDT 2008</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Garry R. Osgood</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU Free Documentation Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>polynomial spline</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>self</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:description>Depicts a cubic polynomial spline curve comprised of three polynomial segments. Control points are indexed in polar form</dc:description>
+        <cc:license rdf:resource="http://www.gnu.org/licenses/fdl-1.2.txt"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4"/>
+  <g style="visibility:visible" id="Default" visibility="visible">
+    <desc id="desc56">Master slide</desc>
+  </g>
+  <g transform="translate(0,-2799.9462)" id="g86" style="visibility:visible"/>
+  <g transform="translate(-8.2274956,-2773.2068)" style="stroke:#0000ff;stroke-width:149.90914917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="g1712"/>
+  <path id="path68" d="m 4124.5251,13831.451 -879.28,-5913.6803" style="visibility:visible;fill:none;stroke:#1a1a1a;stroke-width:58;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <path id="path72" d="m 3251.0451,7888.7707 3192.32,-5564.52" style="visibility:visible;fill:none;stroke:#1a1a1a;stroke-width:58;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <path id="path76" d="m 6475.8451,2303.3707 6956.5199,-984.84" style="visibility:visible;fill:none;stroke:#1a1a1a;stroke-width:58;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="path80" d="m 13463.685,1326.6507 5073.84,3542.64" style="visibility:visible;fill:none;stroke:#1a1a1a;stroke-width:58;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <path id="path84" d="m 18552.605,4889.0107 2148.32,5215.3603" style="visibility:visible;fill:none;stroke:#1a1a1a;stroke-width:58;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <path id="path95" d="m 4174.4051,13789.753 c -879.28,-5912.5199 716.88,-8695.3599 2673.8,-10250.9199" style="visibility:visible;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <g transform="matrix(1.16,0,0,1.16,-786.91491,-5169.2869)" id="g153" style="visibility:visible;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:200;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="path222" d="m 6848.6756,3551.1262 c 1958.08,-1554.4 4276.9194,-1882.68 6703.6394,-1161.16" style="visibility:visible;fill:none;stroke:#ff8d00;stroke-width:232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <g transform="matrix(1.16,0,0,1.16,-786.91491,-5148.8258)" style="visibility:visible;fill:none;stroke:#ff8d00;stroke-width:149.90914917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="g224"/>
+  <path id="curve02path" d="m 13553.308,2388.3481 c 2427.88,721.52 4965.96,2494 7114.28,7709.3609" style="fill:none;stroke:#0000ff;stroke-width:232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <g transform="matrix(1.16,0,0,1.16,-786.91491,-5169.2869)" id="g229" style="visibility:visible">
+    <circle r="144.88272" cy="16371.832" cx="4272.9683" id="path6612" style="opacity:1;fill:#dc2300;fill-opacity:1;stroke:#800000;stroke-width:48.62953178;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  </g>
+  <text id="text6225" y="-17055.02" x="4106.6328" style="font-style:normal;font-weight:normal;font-size:564.10253906px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="-17055.02" x="4106.6328" id="tspan6227">P<tspan id="tspan6238" style="font-size:1833.33339691%;baseline-shift:sub">[0.6667, 1, 1]</tspan></tspan></text>
+  <text id="text6240" y="4711.4409" x="18926.891" style="font-style:normal;font-weight:normal;font-size:1128.20507812px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-size:705.12823486px;fill:#1a1a1a" y="4711.4409" x="18926.891" id="tspan6242">P<tspan dy="141.02563" id="tspan6635" style="font-size:352.56411743px;fill:#1a1a1a">[0.667, 1, 1]</tspan></tspan></text>
+  <text id="text6240-3" y="10748.391" x="19703.102" style="font-style:normal;font-weight:normal;font-size:1128.2052002px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-size:705.12823486px;fill:#1a1a1a" y="10748.391" x="19703.102" id="tspan6242-6">P<tspan dy="282.05127" id="tspan6637" style="font-size:352.56411743px;fill:#1a1a1a">[1, 1, 1]</tspan></tspan></text>
+  <text id="text6240-3-7" y="672.19904" x="11613.686" style="font-style:normal;font-weight:normal;font-size:1128.20532227px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-size:705.12823486px;fill:#1a1a1a" y="672.19904" x="11613.686" id="tspan6242-6-5">P<tspan dy="282.05127" id="tspan6633" style="font-size:352.56411743px;fill:#1a1a1a">[0.333, 0.667, 1]</tspan></tspan></text>
+  <text id="text6240-3-7-3" y="1650.0439" x="4684.4409" style="font-style:normal;font-weight:normal;font-size:1128.20544434px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-size:705.12823486px;fill:#1a1a1a" y="1650.0439" x="4684.4409" id="tspan6242-6-5-5">P<tspan dy="199.44035" id="tspan6631" style="font-size:352.56411743px;fill:#1a1a1a">[0, 0.333, 0.667]</tspan></tspan></text>
+  <text id="text6240-3-7-3-6" y="8641.5537" x="528.30585" style="font-style:normal;font-weight:normal;font-size:1128.20556641px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-size:705.12823486px;fill:#1a1a1a" y="8641.5537" x="528.30585" id="tspan6242-6-5-5-2">P<tspan dy="199.44035" id="tspan6629" style="font-size:352.56411743px;fill:#1a1a1a">[0, 0, 0.333]</tspan></tspan></text>
+  <text id="text6240-3-7-3-6-9" y="14558.461" x="3238.5886" style="font-style:normal;font-weight:normal;font-size:705.12823486px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" xml:space="preserve"><tspan y="14558.461" x="3238.5886" id="tspan6242-6-5-5-2-1">P<tspan dy="35.256409" id="tspan6340" style="font-size:352.56411743px;fill:#1a1a1a;">[0, 0, 0]</tspan></tspan></text>
+  <circle r="168.06393" cy="7896.645" cx="3271.1763" id="path6612-2" style="visibility:visible;opacity:1;fill:#dc2300;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:56.41025162;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <circle r="168.06393" cy="2376.7417" cx="6404.5288" id="path6612-2-7" style="visibility:visible;opacity:1;fill:#dc2300;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:56.41025162;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <circle r="168.06393" cy="1361.9484" cx="13432.31" id="path6612-2-0" style="visibility:visible;opacity:1;fill:#dc2300;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:56.41025162;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <circle r="168.06393" cy="4905.895" cx="18537.982" id="path6612-2-9" style="visibility:visible;opacity:1;fill:#dc2300;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:56.41025162;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <circle r="168.06395" cy="10104.592" cx="20665.652" id="path6612-2-9-3" style="visibility:visible;opacity:1;fill:#dc2300;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:56.41025543;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+</svg>
