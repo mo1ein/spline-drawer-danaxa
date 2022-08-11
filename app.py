@@ -2,7 +2,7 @@
 import os
 from typing import List, Union, Tuple
 from spline_drawer import spline
-from flask import Flask, request, render_template, send_file
+from flask import Flask, request, render_template, send_file, redirect
 
 app = Flask(
     __name__,
@@ -10,17 +10,17 @@ app = Flask(
 )
 app.config['UPLOAD_FOLDER'] = 'upload'
 
-# redirect to main endpoint
 
-
+# redirect to spline
 @app.route('/', methods=['POST', 'GET'])
 def root() -> str:
-    return "hello to root :)"
+    return redirect('/spline')
 
 
-@app.route('/s', methods=['POST', 'GET'])
-def draw():
+@app.route('/spline', methods=['POST', 'GET'])
+def spline_page() -> str:
     if request.method == 'GET':
+        print(type(render_template('index.html')))
         return render_template('index.html')
 
     if request.method == 'POST':
@@ -38,8 +38,6 @@ def draw():
         else:
             message = 'input data is not correct!'
             return render_template('index.html', message=message)
-
-    return "nice"
 
 
 def is_data_valid(data: dict) -> Union[Tuple[List[int], List[int], int], bool]:
@@ -59,7 +57,6 @@ def is_data_valid(data: dict) -> Union[Tuple[List[int], List[int], int], bool]:
     k = data['k'][0]
     if not k.isnumeric():
         return False
-    # TODO: have limit?
     k = int(k)
 
     return xs, ys, k
