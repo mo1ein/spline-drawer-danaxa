@@ -1,6 +1,10 @@
 
 ## Spline drawer
-In mathematics, a spline is a special function defined piecewise by polynomials ([read more](https://en.wikipedia.org/wiki/Spline_(mathematics))). <br />We need three parameter for drawing spline. t, c and k. like this image.
+### Task
+
+In mathematics, a spline is a special function defined piecewise by polynomials ([read more](https://en.wikipedia.org/wiki/Spline_(mathematics)). <br />
+We want you to implement a service to take an image and
+tck parameters as inputs and visualize the spline on the image. Implement the mentioned service in Sanic or Flask framework.
 
 <p align="center">
 <img src="./static/spline.svg" width="660" height="412" />
@@ -21,7 +25,7 @@ localhost:5000/spline/
 ```
 
 ### Result
-As you see in `test.py`, we have more x and y cordinates of points. After process data, you can see splines :)
+As you see in `test.py`, we have tck of points. After process data, you can see splines. :)
 
 <p align="center">
 <img src="./static/out.jpg" width="500" height="380" />
