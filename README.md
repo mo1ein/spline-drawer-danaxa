@@ -2,7 +2,7 @@
 ## Spline drawer
 ### Task
 
-In mathematics, a spline is a special function defined piecewise by polynomials ([read more](https://en.wikipedia.org/wiki/Spline_(mathematics)). <br />
+In mathematics, a spline is a special function defined piecewise by polynomials ([read more](https://en.wikipedia.org/wiki/Spline_(mathematics))). <br />
 We want you to implement a service to take an image and
 tck parameters as inputs and visualize the spline on the image. Implement the mentioned service in Sanic or Flask framework.
 
